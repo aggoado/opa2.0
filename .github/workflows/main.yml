@@ -1,4 +1,4 @@
-name: Run VSCode with Agro Tunnel
+name: Run VSCode
 
 on:
   push:
